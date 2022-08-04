@@ -629,7 +629,7 @@ TODO
 TODO
 
 ## Interface Builder Outlet, Action
-Outlet is defined by weak and unwrap.  If you want to automatically generate the property from the street board, add private modifier.
+Outlet is defined by weak and unwrap.  If you want to automatically generate the property from the story board, add private modifier.
 
 In case remove view from parent view and you want to use this view inherently, state strong instead of weak. In case you want to use this property from external class, do not add private modifier.
 
